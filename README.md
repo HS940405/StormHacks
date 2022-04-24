@@ -1,4 +1,4 @@
-# StormHacks
+# Future Finder
 
 # Inspiration
 Future is always ambiguous. As a student who has an experience getting hardship in a interesting work field, this navigator would be helpful for people who are seeking their career path
